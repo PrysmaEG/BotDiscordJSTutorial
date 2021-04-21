@@ -1,3 +1,5 @@
+//Dúvidas? Me chame no Discord: Prisma 愛#8802
+
 const Discord = require('discord.js')//Faz aquisição da livraria Discord.js, que é a livraria que vamos usar para criar esse bot tutorial
 
 const client = new Discord.Client()//Cria um novo Client, usando a livraria Discord.js
