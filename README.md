@@ -39,3 +39,9 @@
 > ![image](https://user-images.githubusercontent.com/76274058/115635548-565a5000-a2e2-11eb-97da-860057ab0535.png)
 > ![image](https://user-images.githubusercontent.com/76274058/115635678-a1746300-a2e2-11eb-875a-988edf40145c.png)
 
+# Dúvidas?
+
+- Se você ainda teve problemas, ou está com dúvidas, acesse meu servidor [Saigai Shrine](https://discord.gg/pbEUStjduT)
+> Meu Discord: `Prisma 愛#8802`
+
+- Não se esqueça de me seguir e marcar esse repositório com uma ⭐**Estrela** se eu te ajudei!
