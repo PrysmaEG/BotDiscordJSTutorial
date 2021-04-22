@@ -24,12 +24,21 @@
 > `ATENÇÃO`
 - Apenas no arquivo **.env-exemplo** você não copiará o nome igual, dê o nome apenas de **.env**.
 
+- Após ter feito isso, você vai abrir o **terminal**, para **abrir ele**, aperte `CTRL SHIFT +`
+Ao ter o **Terminal** aberto, digite **npm init**
+Após ter feito isso, será criado automaticamente duas pastas: **package.json** e **package.lock.json**. Você não precisa fazer nada em nenhuma das duas.
+No **Terminal** novamente, digite **npm i discord.js** para baixar a **Livraria** do **DiscordJS**. 
+
+- Para ligar seu **Bot** digite: **node .** no **Terminal**! 
+
 
 ## Como criar um BOT no site do Discord e pegar o Token:
 
 - Para começar, você precisa acessar o [Site de Desenvolvedores do Discord](https://discord.com/developers/applications) e clicar em **New Application**. Após isso, você clica em **Bot** e lá vai estar o seu **Token**. Para copiar, basta apenas clicar em **Copy**.
 > `Atenção`
 - **NÃO** mostre pra **NINGUÉM** o **TOKEN** do seu **Bot**. Caso você faça isso, ou alguém acabe descobrindo, aletere o **Token** rapidamente clicando em **Regenerate**.
+
+- Para adicionar seu **Bot** em algum servidor, basta clicar em **Auth** na [Página de Desenvolvedores](https://discord.com/developers/applications) selecionar **bot** e selecionar a permissão de **Administrador**. Após isso, basta copiar o **link** acima e colar ele em alguma aba do seu navegador, e pronto! 
 
 
 ## Algumas prints para ajudar você:
